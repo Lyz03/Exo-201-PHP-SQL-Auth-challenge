@@ -5,7 +5,7 @@
 </body>
 
 
-<form action="logout.php" method="post">
+<form action="pages/logout.php" method="post">
         <button type="submit" name="button">Se déconnecter</button>
     </div>
 </form>
